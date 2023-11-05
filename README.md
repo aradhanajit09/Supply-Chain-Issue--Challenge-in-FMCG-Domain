@@ -1,4 +1,3 @@
-# Supply-Chain-Issue--Challenge-in-FMCG-Domain
 ## Project
 ### Generate Insights to Solve a Supply Chain Issue in FMCG Domain
 
